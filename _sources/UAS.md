@@ -1,9 +1,9 @@
 ---
-title: UAS MATHDISK
+title: UAS
 
 ---
 
-
+# UAS
 
 | no       | P        | Q        | R     |   S    ($P \to\ Q$)   ($R \to\ S$)
 | -------- | -------- | -------- |-------|-------|
